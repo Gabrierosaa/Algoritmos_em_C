@@ -1,6 +1,8 @@
-#include <stdio.h>
+//basico do basico
 
-int main() {
-    printf("Hello, World!\n");
-    return 0;
+#include <stdio.h> // Inclui a biblioteca padrão de entrada e saída
+
+int main() { // Função principal do programa
+    printf("Hello, World!\n"); // Printa "Hello, World!" na tela
+    return 0; //Avisa que o programa terminou com sucesso
 }
